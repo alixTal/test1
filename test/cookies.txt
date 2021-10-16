@@ -1,0 +1,29 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.vk.com	TRUE	/	TRUE	1652350606	remixlang	3
+.vk.com	TRUE	/	TRUE	1652837793	remixstid	1234516508_9pguJdX92TfVroE6QZW5rSYvsl7eYHqMQN9j1uOj7tP
+.vk.com	TRUE	/	TRUE	1651664205	remixlhk	99ec57985993a23933
+.vk.com	TRUE	/	TRUE	1636891047	remixflash	0.0.0
+.vk.com	TRUE	/	TRUE	1665835047	remixscreen_width	1920
+.vk.com	TRUE	/	TRUE	1665835047	remixscreen_height	1080
+.vk.com	TRUE	/	TRUE	1665835047	remixscreen_dpr	1
+.vk.com	TRUE	/	TRUE	1665835047	remixscreen_depth	24
+.login.vk.com	TRUE	/	TRUE	1653149725	h	1
+.login.vk.com	TRUE	/	TRUE	1651436817	s	1
+.login.vk.com	TRUE	/	TRUE	1651622658	l	175477339
+.login.vk.com	TRUE	/	TRUE	1652684706	p	2dc813e25d619d46be8c60e3be69067a774344abac895aec2951ef884bda6
+.vk.com	TRUE	/	TRUE	1665025733	remixuas	YTg1MjNiYmNmNzU2MGNhOWMwMzAyNzJm
+.vk.com	TRUE	/	TRUE	1634903847	remixscreen_orient	1
+.vk.com	TRUE	/	TRUE	1663615494	remixrefkey	f0a426fff15ee3199f
+.vk.com	TRUE	/	TRUE	1663998179	remixQUIC	1
+.vk.com	TRUE	/	TRUE	1663868884	remixdt	1800
+.vk.com	TRUE	/	TRUE	1636204972	remixseenads	1
+.vk.com	TRUE	/	TRUE	1634838979	remixgp	30671fe830d286f243219d938ce2ee97
+.vk.com	TRUE	/	TRUE	1665244318	remixsid	0f41b1dde62054e09cb24e6b9aeae1b4c04ea8bd0e4f9ac11324acc6c1f53
+.vk.com	TRUE	/	TRUE	1634389936	remixmdv	JQSzjWDSfZVMpzpp
+.vk.com	TRUE	/	TRUE	1666728145	remixua	50%7C615%7C191%7C2003030112
+.vk.com	TRUE	/	TRUE	1634379136	remixaudio_show_alert_today	0
+.vk.com	TRUE	/	TRUE	1635156736	remixff	0
+.vk.com	TRUE	/	TRUE	1665835047	remixscreen_winzoom	1
