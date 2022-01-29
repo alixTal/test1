@@ -1,10 +1,5 @@
 var video = document.getElementById('video');
 var qualities = {}
-var bigBuckBunny = 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8';
-var source2 = 'https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8'
-var url = 'https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8'
-var video4k = "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
-var xvideo = 'https://cdn77-vid.xvideos-cdn.com/le1x8-oX1NrE_GI9MJNdHA==,1630954920/videos/hls/59/55/ea/5955ea1be6478fc778b6b0a9d14ff482/hls.m3u8'
 
 // https://bitdash-a.akamaihd.net/content/MI201109210084_1/video/180_250000/hls/segment_0.ts
 // https://bitdash-a.akamaihd.net/content/MI201109210084_1/video/1080_4800000/hls/segment_0.ts
